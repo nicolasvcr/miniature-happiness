@@ -5,7 +5,6 @@ featured_image: "https://forestal.uchile.cl/dam/jcr:148af95e-9765-473d-a363-818b
 draft: false
 ---
 
-# Académico emplea árboles de lenga para estudiar la “vida y muerte” de los bosques más australes del mundo - Facultad de Ciencias Forestales y de la Conservación de la Naturaleza - Universidad de Chile
 El profesor Christian Salas-Eljatib, de la Facultad de Ciencias Forestales y de la Conservación de la Naturaleza de la Universidad de Chile, lidera un proyecto de investigación FONDECYT que busca desentrañar los secretos de la mortalidad en los bosques de lenga, desde el Maule hasta Cabo Hornos.
 
 En el escenario natural que abarca desde el Maule hasta el último confín de Cabo de Hornos, los bosques de lenga despliegan toda su belleza. En este rincón del mundo, el profesor Christian Salas-Eljatib, de la Facultad de Ciencias Forestales y de la Conservación de la Naturaleza de la Universidad de Chile, conduce una investigación financiada por el programa FONDECYT de ANID, con un objetivo claro: entender la relación íntima entre la vida y la muerte en estos bosques australes.
