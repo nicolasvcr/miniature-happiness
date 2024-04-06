@@ -1,4 +1,6 @@
-baseURL = 'https://biometriaforestal.uchile.cl/'
+# baseURL = 'https://biometriaforestal.uchile.cl/'
+# Se pone esta url por motivos de testing
+baseURL = 'https://hugo.drimyswinteri.org'
 languageCode = 'es-CL'
 title = 'Laboratorio de Biometría y Modelación Forestal'
 theme = 'ananke'
