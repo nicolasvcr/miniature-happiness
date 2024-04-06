@@ -2,109 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://biometriaforestal.uchile.cl/es/01investigacion/</loc>
+    <loc>https://hugo.drimyswinteri.org/es/01investigacion/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://biometriaforestal.uchile.cl/en/01investigacion/"
+                href="https://hugo.drimyswinteri.org/en/01investigacion/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="https://biometriaforestal.uchile.cl/es/01investigacion/"
+                href="https://hugo.drimyswinteri.org/es/01investigacion/"
                 />
   </url><url>
-    <loc>https://biometriaforestal.uchile.cl/es/02publicaciones/</loc>
+    <loc>https://hugo.drimyswinteri.org/es/02publicaciones/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://biometriaforestal.uchile.cl/en/02publicaciones/"
+                href="https://hugo.drimyswinteri.org/en/02publicaciones/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="https://biometriaforestal.uchile.cl/es/02publicaciones/"
+                href="https://hugo.drimyswinteri.org/es/02publicaciones/"
                 />
   </url><url>
-    <loc>https://biometriaforestal.uchile.cl/es/03gente/</loc>
+    <loc>https://hugo.drimyswinteri.org/es/03gente/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://biometriaforestal.uchile.cl/en/03gente/"
+                href="https://hugo.drimyswinteri.org/en/03gente/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="https://biometriaforestal.uchile.cl/es/03gente/"
+                href="https://hugo.drimyswinteri.org/es/03gente/"
                 />
   </url><url>
-    <loc>https://biometriaforestal.uchile.cl/es/04noticias/</loc>
+    <loc>https://hugo.drimyswinteri.org/es/04noticias/</loc>
     <lastmod>2023-12-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://biometriaforestal.uchile.cl/en/04noticias/"
+                href="https://hugo.drimyswinteri.org/en/04noticias/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="https://biometriaforestal.uchile.cl/es/04noticias/"
+                href="https://hugo.drimyswinteri.org/es/04noticias/"
                 />
   </url><url>
-    <loc>https://biometriaforestal.uchile.cl/es/04noticias/01/01cfcn/</loc>
+    <loc>https://hugo.drimyswinteri.org/es/04noticias/01/01cfcn/</loc>
     <lastmod>2023-12-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://biometriaforestal.uchile.cl/es/</loc>
+    <loc>https://hugo.drimyswinteri.org/es/</loc>
     <lastmod>2023-12-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://biometriaforestal.uchile.cl/en/"
+                href="https://hugo.drimyswinteri.org/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="https://biometriaforestal.uchile.cl/es/"
+                href="https://hugo.drimyswinteri.org/es/"
                 />
   </url><url>
-    <loc>https://biometriaforestal.uchile.cl/es/categories/</loc>
+    <loc>https://hugo.drimyswinteri.org/es/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://biometriaforestal.uchile.cl/en/categories/"
+                href="https://hugo.drimyswinteri.org/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="https://biometriaforestal.uchile.cl/es/categories/"
+                href="https://hugo.drimyswinteri.org/es/categories/"
                 />
   </url><url>
-    <loc>https://biometriaforestal.uchile.cl/es/tags/</loc>
+    <loc>https://hugo.drimyswinteri.org/es/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://biometriaforestal.uchile.cl/en/tags/"
+                href="https://hugo.drimyswinteri.org/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="https://biometriaforestal.uchile.cl/es/tags/"
+                href="https://hugo.drimyswinteri.org/es/tags/"
                 />
   </url>
 </urlset>
