@@ -5,7 +5,6 @@
     <link>https://hugo.drimyswinteri.org/es/02publicaciones/</link>
     <description>Recent content in Publicaciones on Laboratorio de Biometría y Modelación Forestal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-CL</language>
-    <atom:link href="https://hugo.drimyswinteri.org/es/02publicaciones/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-CL</language><atom:link href="https://hugo.drimyswinteri.org/es/02publicaciones/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

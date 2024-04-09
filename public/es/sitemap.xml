@@ -7,12 +7,12 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
+                hreflang="en"
                 href="https://hugo.drimyswinteri.org/en/01investigacion/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es-CL"
+                hreflang="es"
                 href="https://hugo.drimyswinteri.org/es/01investigacion/"
                 />
   </url><url>
@@ -21,12 +21,12 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
+                hreflang="en"
                 href="https://hugo.drimyswinteri.org/en/02publicaciones/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es-CL"
+                hreflang="es"
                 href="https://hugo.drimyswinteri.org/es/02publicaciones/"
                 />
   </url><url>
@@ -35,12 +35,12 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
+                hreflang="en"
                 href="https://hugo.drimyswinteri.org/en/03gente/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es-CL"
+                hreflang="es"
                 href="https://hugo.drimyswinteri.org/es/03gente/"
                 />
   </url><url>
@@ -50,12 +50,12 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
+                hreflang="en"
                 href="https://hugo.drimyswinteri.org/en/04noticias/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es-CL"
+                hreflang="es"
                 href="https://hugo.drimyswinteri.org/es/04noticias/"
                 />
   </url><url>
@@ -70,12 +70,12 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
+                hreflang="en"
                 href="https://hugo.drimyswinteri.org/en/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es-CL"
+                hreflang="es"
                 href="https://hugo.drimyswinteri.org/es/"
                 />
   </url><url>
@@ -84,12 +84,12 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
+                hreflang="en"
                 href="https://hugo.drimyswinteri.org/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es-CL"
+                hreflang="es"
                 href="https://hugo.drimyswinteri.org/es/categories/"
                 />
   </url><url>
@@ -98,12 +98,12 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-US"
+                hreflang="en"
                 href="https://hugo.drimyswinteri.org/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="es-CL"
+                hreflang="es"
                 href="https://hugo.drimyswinteri.org/es/tags/"
                 />
   </url>

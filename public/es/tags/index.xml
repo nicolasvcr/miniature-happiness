@@ -5,7 +5,6 @@
     <link>https://hugo.drimyswinteri.org/es/tags/</link>
     <description>Recent content in Tags on Laboratorio de Biometría y Modelación Forestal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-CL</language>
-    <atom:link href="https://hugo.drimyswinteri.org/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-CL</language><atom:link href="https://hugo.drimyswinteri.org/es/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

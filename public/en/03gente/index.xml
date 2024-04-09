@@ -5,7 +5,6 @@
     <link>https://hugo.drimyswinteri.org/en/03gente/</link>
     <description>Recent content in People on Biometrics Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <atom:link href="https://hugo.drimyswinteri.org/en/03gente/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language><atom:link href="https://hugo.drimyswinteri.org/en/03gente/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
