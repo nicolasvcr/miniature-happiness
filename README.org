@@ -1,0 +1,5 @@
+* Para clonar el repositorio
+#+begin_src bash
+git clone --recurse-submodules git@github.com:biometria-forestal/weblab.git
+#+end_src
+=--recurse-submodules= es importante para que se clonen los archivos del tema /Ananke/ junto con los archivos de la página web.
