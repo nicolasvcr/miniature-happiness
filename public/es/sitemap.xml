@@ -2,109 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://biometriaforestal.github.io/es/01investigacion/</loc>
+    <loc>https://miniature-happiness.github.io/es/01investigacion/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://biometriaforestal.github.io/en/01investigacion/"
+                href="https://miniature-happiness.github.io/en/01investigacion/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="https://biometriaforestal.github.io/es/01investigacion/"
+                href="https://miniature-happiness.github.io/es/01investigacion/"
                 />
   </url><url>
-    <loc>https://biometriaforestal.github.io/es/02publicaciones/</loc>
+    <loc>https://miniature-happiness.github.io/es/02publicaciones/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://biometriaforestal.github.io/en/02publicaciones/"
+                href="https://miniature-happiness.github.io/en/02publicaciones/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="https://biometriaforestal.github.io/es/02publicaciones/"
+                href="https://miniature-happiness.github.io/es/02publicaciones/"
                 />
   </url><url>
-    <loc>https://biometriaforestal.github.io/es/03gente/</loc>
+    <loc>https://miniature-happiness.github.io/es/03gente/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://biometriaforestal.github.io/en/03gente/"
+                href="https://miniature-happiness.github.io/en/03gente/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="https://biometriaforestal.github.io/es/03gente/"
+                href="https://miniature-happiness.github.io/es/03gente/"
                 />
   </url><url>
-    <loc>https://biometriaforestal.github.io/es/04noticias/</loc>
+    <loc>https://miniature-happiness.github.io/es/04noticias/</loc>
     <lastmod>2023-12-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://biometriaforestal.github.io/en/04noticias/"
+                href="https://miniature-happiness.github.io/en/04noticias/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="https://biometriaforestal.github.io/es/04noticias/"
+                href="https://miniature-happiness.github.io/es/04noticias/"
                 />
   </url><url>
-    <loc>https://biometriaforestal.github.io/es/04noticias/01/01cfcn/</loc>
+    <loc>https://miniature-happiness.github.io/es/04noticias/01/01cfcn/</loc>
     <lastmod>2023-12-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://biometriaforestal.github.io/es/</loc>
+    <loc>https://miniature-happiness.github.io/es/</loc>
     <lastmod>2023-12-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://biometriaforestal.github.io/en/"
+                href="https://miniature-happiness.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="https://biometriaforestal.github.io/es/"
+                href="https://miniature-happiness.github.io/es/"
                 />
   </url><url>
-    <loc>https://biometriaforestal.github.io/es/categories/</loc>
+    <loc>https://miniature-happiness.github.io/es/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://biometriaforestal.github.io/en/categories/"
+                href="https://miniature-happiness.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="https://biometriaforestal.github.io/es/categories/"
+                href="https://miniature-happiness.github.io/es/categories/"
                 />
   </url><url>
-    <loc>https://biometriaforestal.github.io/es/tags/</loc>
+    <loc>https://miniature-happiness.github.io/es/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://biometriaforestal.github.io/en/tags/"
+                href="https://miniature-happiness.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="https://biometriaforestal.github.io/es/tags/"
+                href="https://miniature-happiness.github.io/es/tags/"
                 />
   </url>
 </urlset>

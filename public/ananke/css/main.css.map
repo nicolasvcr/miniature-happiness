@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/christian/Dropbox/GitHub/weblab",
+	"sourceRoot": "/home/yaca/dev/weblab",
 	"sources": [
 		"ananke/css/main.css"
 	],
