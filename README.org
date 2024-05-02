@@ -1,5 +1,10 @@
+## Sobre este repositorio
+
+seria bueno Nico agregar una explicacion de como editar y cambiar...... para asi lograr que se actualice todo
+
+
 * Para clonar el repositorio
 #+begin_src bash
-git clone --recurse-submodules git@github.com:biometria-forestal/weblab.git
+git clone --recurse-submodules git@github.com:biometriaforestal/weblab.git
 #+end_src
 =--recurse-submodules= es importante para que se clonen los archivos del tema /Ananke/ junto con los archivos de la página web.
