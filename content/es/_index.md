@@ -4,7 +4,7 @@ description: "Universidad de Chile. Facultad de Ciencias Forestales y de la Cons
 featured_image: "/images/conguillio.jpg"
 ---
 
-El Laboratorio de Biometría y Modelación Forestal se centra en investigar como
+Mi laboratorio El Laboratorio de Biometría y Modelación Forestal se centra en investigar como
 los ecosistemas forestales cambian a través del tiempo. We use mathematical, theoretical, statistical and empirical approaches to address several research questions related to forest dynamics, tree allometry, mortality, and the scaling of tree-level processes to ecosystems. Our research also includes the long-term monitoring of the temperate forests in southern Chile.
 
 Our location is Room 14, Departamento de Gestión Forestal y su Medio Ambiente, in the Universidad de Chile's Antumapu campus in Santiago, Chile. E-mail (see below) is usually the best way to get in touch.
